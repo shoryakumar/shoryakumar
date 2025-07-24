@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Shorya Kumar</h1>
-<h3 align="center">AI Developer | Indie Hacker | Creative Technologist</h3>
+<h3 align="center">AI Developer | Creative Technologist</h3>
 
 <p align="center">
 🚀 Building tools, apps, and agents that make tech feel like magic.<br/>
