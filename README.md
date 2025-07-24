@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Shorya Kumar</h1>
-<h3 align="center">AI Developer | Creative Technologist</h3>
+<h3 align="center">AI Developer | Indie Hacker | Creative Technologist</h3>
 
 <p align="center">
 🚀 Building tools, apps, and agents that make tech feel like magic.<br/>
@@ -20,16 +20,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/shorya-kumar" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/shoryakumar" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="github" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/shoryakumar" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" alt="leetcode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:shoryakumarr@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="email" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -46,29 +46,29 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/flutter.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/firebase.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoryakumar&show_icons=true&theme=tokyonight" alt="shoryakumar stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shoryakumar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoryakumar&theme=tokyonight" alt="shoryakumar streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoryakumar&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryakumar&layout=compact&theme=tokyonight" alt="shoryakumar top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryakumar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
