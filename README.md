@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=hs094&color=blue" alt="Profile Views" />
+<img align="right" src="https://komarev.com/ghpvc/?username=shoryakumar&color=blue" alt="Profile Views" />
 <h1 align="center">Hey 👋, I'm Shorya Kumar</h1>
 <h3 align="center">AI Developer | Creative Technologist</h3>
 
