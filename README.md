@@ -1,58 +1,96 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=shoryakumar&color=6366f1&style=flat-square" alt="Profile Views" />
+<div align="center">
 
-# Hey, I'm Shorya Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: middle;"></h1>
+# Hey, I'm Shorya Kumar 👋
 
 ### Software Development Engineer @ Tailored AI
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+production+AI+systems;LLMs+%7C+Agents+%7C+RAG+%7C+AI+Workflows;AI+Engineering+%7C+Forward-Deployed+Engineering;AI+%2B+UX+%2B+Agentic+Interfaces" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=1200&color=6366F1&center=true&vCenter=true&width=720&lines=Building+production+AI+systems;LLMs+%7C+Agents+%7C+RAG+%7C+AI+Workflows;AI+Engineering+%7C+Forward-Deployed+Engineering;AI+%2B+UX+%2B+Agentic+Interfaces" alt="Typing SVG" />
 </p>
 
-I build and ship production AI systems for real world business workflows.
+<p>
+  <a href="https://shoryakumar.in">
+    <img src="https://img.shields.io/badge/Portfolio-shoryakumar.in-111827?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/shorya-kumar">
+    <img src="https://img.shields.io/badge/LinkedIn-Shorya%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shoryakumar&color=6366f1&style=flat-square&label=Profile+Views" />
+</p>
 
-My work spans **LLMs, agents, RAG, voice AI, document intelligence, data pipelines, backend systems, evaluation, and automation**. I enjoy taking ambiguous problems, understanding where AI can actually help, and turning them into reliable systems that work in production.
-
-I’m also interested in **AI engineering, forward deployed engineering, UX, and agentic interfaces**, especially the challenge of making AI systems useful, intuitive, and easy to work with.
-
-🌐 [Portfolio](https://shoryakumar.in) · 💼 [LinkedIn](https://linkedin.com/in/shorya-kumar)
+</div>
 
 ---
 
-## What I'm Working On
+I build and ship **production AI systems for real world business workflows**.
 
-🤖 **Production AI**
-LLM applications, agents, RAG, voice systems, document intelligence, and AI workflows.
+My work spans **LLMs, agents, RAG, voice AI, document intelligence, data pipelines, backend systems, evaluation, and automation**. I enjoy taking ambiguous problems, figuring out where AI can genuinely help, and turning those ideas into systems that are reliable in production.
 
-⚙️ **AI Engineering**
-Backend architecture, data pipelines, evaluation, reliability, and production infrastructure.
+I’m especially interested in **AI engineering, forward deployed engineering, AI + UX, and agentic interfaces** — particularly how intelligent systems can become a natural part of the products people already use.
 
-🎯 **Forward-Deployed Engineering**
+---
+
+## Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Production AI
+
+LLM applications, agents, RAG pipelines, voice systems, document intelligence, and AI powered workflows.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ AI Engineering
+
+Backend architecture, data pipelines, evaluation, reliability, infrastructure, and production systems.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Forward Deployed
+
 Working closely with real business problems and turning ambiguous requirements into working AI systems.
 
-✨ **AI + UX**
-Building agentic interfaces and exploring better ways for people to interact with AI systems.
+</td>
+
+<td width="50%" valign="top">
+
+### ✨ AI + UX
+
+Agentic interfaces and interaction patterns that make AI more useful, intuitive, and easier to work with.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Selected Projects
+## Selected Work
 
 ### 🧩 Visaire CLI
 
-An agentic CLI for interacting with LLMs from the terminal.
+An agentic CLI for interacting with LLMs directly from the terminal.
 
-**Claude · GPT · Gemini · Agents · CLI**
+`Claude` · `GPT` · `Gemini` · `Agents` · `CLI`
 
-🔗 [cli.visaire.in](https://cli.visaire.in)
+**[Visit cli.visaire.in →](https://cli.visaire.in)**
 
 ---
 
 ### 📚 Sommaire
 
-AI powered document summarization using LLM based document processing.
+An AI powered document summarization application built around LLM based document processing.
 
-**LangChain · Gemini · RAG**
+`LangChain` · `Gemini` · `RAG`
 
-🔗 [sommaire.shoryakumar.in](https://sommaire.shoryakumar.in)
+**[Visit sommaire.shoryakumar.in →](https://sommaire.shoryakumar.in)**
 
 ---
 
@@ -60,47 +98,51 @@ AI powered document summarization using LLM based document processing.
 
 A mobile computer vision application for cataract detection using smartphone images.
 
-**Flutter · TensorFlow Lite · Computer Vision**
+`Flutter` · `TensorFlow Lite` · `Computer Vision`
 
-🔗 [Google Play](https://play.google.com/store/apps/details?id=com.iiit.cvision)
+**[View on Google Play →](https://play.google.com/store/apps/details?id=com.iiit.cvision)**
 
 ---
 
-## Technologies
+## Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,postgres,redis,elasticsearch,docker,aws,git,github" />
 </p>
 
----
-
-## GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=shoryakumar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shoryakumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoryakumar&theme=tokyonight&hide_border=true" />
+  <sub>AI · Backend · Data · Cloud · Developer Tools</sub>
 </p>
 
 ---
 
-## Let's Connect
+## GitHub
 
-<p align="left">
+<p align="center">
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=shoryakumar&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=6366F1&text_color=8B949E&icon_color=6366F1&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shoryakumar&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=6366F1&text_color=8B949E" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoryakumar&theme=transparent&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
   <a href="https://linkedin.com/in/shorya-kumar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://shoryakumar.in">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:shoryakumarr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <i>Building AI systems that move from ideas to production.</i>
+  <sub>Building AI systems that move from ideas to production.</sub>
 </p>
