@@ -1,50 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:4F46E5&height=180&section=header&text=SHORYA%20KUMAR&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Development%20Engineer%20%40%20Tailored%20AI&descAlignY=62&descSize=16&animation=twinkling" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+production+AI+systems.;LLMs+%E2%80%A2+Agents+%E2%80%A2+RAG+%E2%80%A2+Voice+AI;AI+Engineering+%E2%80%A2+Forward-Deployed+Engineering;AI+%2B+UX+%E2%80%A2+Agentic+Interfaces" />
-
 <br/>
 
 <a href="https://shoryakumar.in">
-<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/shorya-kumar">
-<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:shoryakumarr@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/shoryakumar.in-000000?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shoryakumar&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" />
+# SHORYA KUMAR
 
-</div>
+### Software Development Engineer · Tailored AI
 
-<br/>
-
-## `whoami`
-
-I'm a Software Development Engineer at **Tailored AI**, where I build and ship AI systems for real world business workflows.
-
-I work across **LLMs, agents, RAG, voice AI, document intelligence, data pipelines, backend systems, evaluation, and automation**.
-
-A big part of what I do is taking problems that are still vague at the beginning, figuring out where AI actually makes sense, and turning them into something reliable enough to be used in production.
-
-I'm particularly interested in **AI engineering, forward deployed engineering, AI + UX, and agentic interfaces**.
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3200&pause=1100&color=8B5CF6&center=true&vCenter=true&width=650&lines=I+build+production+AI+systems.;LLMs+%2B+Agents+%2B+RAG+%2B+Voice+AI;AI+Engineering+%2B+Forward-Deployed+Engineering;AI+%2B+UX+%2B+Agentic+Interfaces" />
+</p>
 
 <br/>
 
-<div align="center">
+<a href="https://linkedin.com/in/shorya-kumar">LinkedIn</a>
+  ·   <a href="https://shoryakumar.in">Portfolio</a>
+  ·   <a href="mailto:shoryakumarr@gmail.com">Email</a>
 
-### `currently building`
+<br/><br/>
 
-**production AI systems that connect models → data → tools → people**
+<img src="https://komarev.com/ghpvc/?username=shoryakumar&label=VISITS&color=8B5CF6&style=flat-square" />
 
 </div>
 
@@ -52,23 +32,45 @@ I'm particularly interested in **AI engineering, forward deployed engineering, A
 
 ---
 
-## `what i work on`
+<div align="center">
+
+### I build AI systems for messy real-world workflows.
+
+</div>
+
+<br/>
+
+I work across **LLMs, agents, RAG, voice AI, document intelligence, data pipelines, backend systems, evaluation, and automation**.
+
+A lot of my work starts with an ambiguous problem rather than a well defined technical specification. I enjoy figuring out where AI genuinely fits, designing the system around it, and taking it all the way to production.
+
+I’m particularly interested in **AI engineering, forward deployed engineering, AI + UX, and agentic interfaces**.
+
+<br/>
+
+---
+
+## What I'm into
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Systems
+**01 · AI Engineering**
 
-LLM applications, agentic workflows, RAG pipelines, voice agents, document intelligence and AI automation.
+Building reliable systems around models rather than just calling them.
+
+LLMs · Agents · RAG · Evaluation · AI Workflows
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 Engineering
+**02 · Forward Deployed**
 
-Backend architecture, data pipelines, evaluation, reliability and infrastructure for production AI.
+Working close to the problem, understanding the workflow, and shipping what actually solves it.
+
+Client Delivery · Product Engineering · Automation
 
 </td>
 </tr>
@@ -76,17 +78,21 @@ Backend architecture, data pipelines, evaluation, reliability and infrastructure
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Forward Deployed
+**03 · AI + UX**
 
-Understanding real business workflows and translating messy requirements into working systems.
+Exploring interfaces that let people collaborate with AI instead of just chatting with it.
+
+Agentic Interfaces · Interaction Design · AI Products
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✨ AI + UX
+**04 · Systems**
 
-Designing agentic interfaces and exploring better ways for people to interact with AI.
+The engineering underneath the AI.
+
+Backend · Data Pipelines · Infrastructure · Reliability
 
 </td>
 </tr>
@@ -96,85 +102,99 @@ Designing agentic interfaces and exploring better ways for people to interact wi
 
 ---
 
-# `things i've built`
+# Selected work
 
-<div align="center">
+<br/>
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<h3>🧩 Visaire CLI</h3>
+### Visaire CLI
 
-An agentic CLI for interacting with LLMs directly from the terminal.
+Agentic tooling for interacting with LLMs directly from the terminal.
 
 <br/>
 
-<code>Claude</code> <code>GPT</code> <code>Gemini</code> <code>Agents</code>
+`Claude` `GPT` `Gemini` `Agents`
 
 <br/><br/>
 
-<a href="https://cli.visaire.in">
-<img src="https://img.shields.io/badge/EXPLORE-6366F1?style=for-the-badge&logo=arrow-up-right&logoColor=white"/>
-</a>
+→ **[cli.visaire.in](https://cli.visaire.in)**
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<h3>📚 Sommaire</h3>
+### Sommaire
 
 AI powered document summarization built around LLM based document processing.
 
 <br/>
 
-<code>LangChain</code> <code>Gemini</code> <code>RAG</code>
+`LangChain` `Gemini` `RAG`
 
 <br/><br/>
 
-<a href="https://sommaire.shoryakumar.in">
-<img src="https://img.shields.io/badge/LIVE-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+→ **[sommaire.shoryakumar.in](https://sommaire.shoryakumar.in)**
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
 
-<h3>👁️ Cvision</h3>
+<tr>
+
+<td width="50%" valign="top">
+
+### Cvision
 
 Mobile computer vision application for cataract detection using smartphone images.
 
 <br/>
 
-<code>Flutter</code> <code>TFLite</code> <code>CV</code>
+`Flutter` `TensorFlow Lite` `Computer Vision`
 
 <br/><br/>
 
-<a href="https://play.google.com/store/apps/details?id=com.iiit.cvision">
-<img src="https://img.shields.io/badge/PLAY%20STORE-6366F1?style=for-the-badge&logo=google-play&logoColor=white"/>
-</a>
+→ **[Google Play](https://play.google.com/store/apps/details?id=com.iiit.cvision)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### More experiments
+
+AI tools, interfaces, developer tooling and side projects.
+
+<br/>
+
+`AI` `UX` `Web` `Experiments`
+
+<br/><br/>
+
+→ **[shoryakumar.in](https://shoryakumar.in)**
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 <br/>
 
 ---
 
-## `stack`
+## Tools I use
 
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,postgres,redis,elasticsearch,docker,aws,git,github&perline=7" />
+</p>
 
-<br/><br/>
+<br/>
 
-<sub>AI · Backend · Data · Cloud · Product · Developer Tools</sub>
+<div align="center">
+
+`AI`   `Backend`   `Data`   `Cloud`   `Product`
 
 </div>
 
@@ -184,11 +204,25 @@ Mobile computer vision application for cataract detection using smartphone image
 
 <div align="center">
 
-### `a few things i care about`
+### A few things I believe
 
-**Useful AI > impressive demos**
-**Good UX > clever interfaces**
-**Production > prototype**
+<br/>
+
+**Build useful things.**
+**Make AI understandable.**
+**Ship beyond the demo.**
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats-salesp07.vercel.app/api?username=shoryakumar&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF&icon_color=8B5CF6&rank_icon=github" />
+
+<img height="155" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shoryakumar&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF" />
 
 </div>
 
@@ -196,9 +230,7 @@ Mobile computer vision application for cataract detection using smartphone image
 
 <div align="center">
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=shoryakumar&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=A78BFA&text_color=94A3B8&icon_color=8B5CF6&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shoryakumar&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=94A3B8" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoryakumar&bg_color=00000000&color=9CA3AF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -206,14 +238,6 @@ Mobile computer vision application for cataract detection using smartphone image
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shoryakumar&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78B5CF6&sideLabels=94A3B8&dates=64748B" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:312E81,100:0F172A&height=120&section=footer&animation=twinkling" />
+<sub>Currently building at Tailored AI · IIIT Naya Raipur</sub>
 
 </div>
