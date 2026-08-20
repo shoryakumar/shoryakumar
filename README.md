@@ -42,6 +42,8 @@ An agentic CLI for interacting with LLMs from the terminal.
 
 **Claude · GPT · Gemini · Agents · CLI**
 
+🔗 [cli.visaire.in](https://cli.visaire.in)
+
 ---
 
 ### 📚 Sommaire
