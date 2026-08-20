@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=shoryakumar&color=6366f1&style=flat-square" alt="Profile Views" />
 
-# Hey, I'm Shorya Kumar 👋
+# Hey, I'm Shorya Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: middle;"></h1>
 
 ### Software Development Engineer @ Tailored AI
 
